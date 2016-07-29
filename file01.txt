@@ -1,3 +1,4 @@
 file01 line01
 line02
 删除3行增加1行
+branch2 added
