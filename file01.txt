@@ -1,4 +1,5 @@
 file01 line01
 line02
 删除3行增加1行
+Insert 1 line
 branch2 added
